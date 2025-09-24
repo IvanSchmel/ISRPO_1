@@ -1,0 +1,10 @@
+H:\УП\Проекты\T2\T2\bin\Debug\T2.exe.config
+H:\УП\Проекты\T2\T2\bin\Debug\T2.exe
+H:\УП\Проекты\T2\T2\bin\Debug\T2.pdb
+H:\УП\Проекты\T2\T2\obj\Debug\T2.csproj.AssemblyReference.cache
+H:\УП\Проекты\T2\T2\obj\Debug\T2.Form1.resources
+H:\УП\Проекты\T2\T2\obj\Debug\T2.Properties.Resources.resources
+H:\УП\Проекты\T2\T2\obj\Debug\T2.csproj.GenerateResource.cache
+H:\УП\Проекты\T2\T2\obj\Debug\T2.csproj.CoreCompileInputs.cache
+H:\УП\Проекты\T2\T2\obj\Debug\T2.exe
+H:\УП\Проекты\T2\T2\obj\Debug\T2.pdb
